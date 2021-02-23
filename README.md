@@ -7,5 +7,6 @@ Olá!
  <br/> :blush: &nbsp; Posso te ajudar com C# e .NET
  <br/> :computer: &nbsp; Minha stack: .NET, .NET Core, C#, React e SQL (em breve Node.js e Typescript)
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos (CS:GO e Lol), séries e a cultura hip-hop
+ <br/>
  <br/> email: thiagopb56@gmail.com
  <br/> linkedin: https://www.linkedin.com/in/thiago-borba-a80963190/
