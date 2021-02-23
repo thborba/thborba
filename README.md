@@ -1,6 +1,5 @@
 
 Olá!
-Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **SecondMind**
