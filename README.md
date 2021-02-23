@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**thborba/thborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá!
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
 
-Here are some ideas to get you started:
+ :rocket:  &nbsp; Estou trabalhando na **SecondMind**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em back-end usando C# e .NET Core, front-end usando React e banco de dados SQL 
+ <br/> :blush: &nbsp; Posso te ajudar com C# e .NET
+ <br/> :computer: &nbsp; Minha stack: .NET, .NET Core, C#, React e SQL (em breve Node.js e Typescript)
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e séries 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+email: thiagopb56@gmail.com
+linkedin: https://www.linkedin.com/in/thiago-borba-a80963190/
